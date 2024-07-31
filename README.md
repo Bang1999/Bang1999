@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align=center>
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=E5CCFF&height=160&section=header&text=DongHo-Bang🐢&fontSize=90&&animation=fadeIn&fontColor=3CB371"></image>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=3CB371&height=160&section=header&text=DongHo-Bang🐢&fontSize=90&&animation=fadeIn&fontColor=FFFFFF"></image>
 </p>
 <h3 align=center> 
 🌱 Hello🖐 I’m DongHo Bang from Seoul, Korea.
