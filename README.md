@@ -41,7 +41,4 @@ Here are some ideas to get you started:
   <a href="https://solved.ac/bdh1593/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bdh1593" alt="Solved.ac Profile Badge" />
   </a>
-  <a href="https://github.com/Bang1999/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Bang1999" alt="Anurag's GitHub stats" />
-  </a>
 </div>
